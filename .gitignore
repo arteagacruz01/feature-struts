@@ -1,2 +1,7 @@
 /.smarttomcat/
 /target/
+.idea/
+*.iml
+*.iws
+out/
+*.log
