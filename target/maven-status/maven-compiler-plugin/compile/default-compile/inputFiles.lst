@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 C:\Users\Mauricio Arteaga\Downloads\persona-crud-struts2-actionfix\src\main\java\com\example\action\PersonaAction.java
 C:\Users\Mauricio Arteaga\Downloads\persona-crud-struts2-actionfix\src\main\java\com\example\model\Persona.java
 C:\Users\Mauricio Arteaga\Downloads\persona-crud-struts2-actionfix\src\main\java\com\example\dao\OracleConnectionFactory.java
 C:\Users\Mauricio Arteaga\Downloads\persona-crud-struts2-actionfix\src\main\java\com\example\dao\PersonaDAO.java
+=======
+C:\Users\Mauricio Arteaga\Downloads\feature-struts-master\feature-struts-master\src\main\java\com\example\model\Persona.java
+C:\Users\Mauricio Arteaga\Downloads\feature-struts-master\feature-struts-master\src\main\java\com\example\dao\PersonaDAO.java
+C:\Users\Mauricio Arteaga\Downloads\feature-struts-master\feature-struts-master\src\main\java\com\example\dao\OracleConnectionFactory.java
+C:\Users\Mauricio Arteaga\Downloads\feature-struts-master\feature-struts-master\src\main\java\com\example\action\PersonaAction.java
+>>>>>>> 7e951be (featMAUOX)
