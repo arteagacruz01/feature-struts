@@ -14,6 +14,7 @@ public class PersonaAction extends ActionSupport {
     private PersonaDAO dao = new PersonaDAO();
 
     // Campos del formulario
+    //hola
     private Integer idPersona;
     private String nombre;
     private String apellido;
